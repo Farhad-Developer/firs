@@ -1,0 +1,59 @@
+
+body {
+  background-color: gray;
+}
+.container-fluid {
+  background-color: white;
+  height: 100px;
+}
+
+.content {
+  background-color: white;
+  height: 700px;
+  border: 1px solid bisque;
+}
+
+
+  .cus ul {
+    list-style-type: none;
+    text-align: right;
+    float: right;
+   padding-right: 330px;
+  
+    
+  }
+  
+  .cus ul li {
+    display: inline;
+    border-right:1px solid white; padding:20;
+  
+  }
+  .cus a {
+    color: #ccc;;
+    text-decoration: none;
+   padding:5px;
+   font-size: 20px;
+
+  }
+    
+   .cus a:hover {border-bottom:2px solid black;}
+
+}
+
+
+nav {
+font-size: 20px;
+float: left;
+padding-left: 320px;
+
+}
+  nav h1 { font-weight:100;
+    margin-top: 0px;
+    margin-left: 0px;
+    
+  
+
+  }
+  img { width:100px;
+  height: 80px;
+  }

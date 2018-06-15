@@ -1,0 +1,45 @@
+.row { background-color:#ffe6e6;
+
+
+}
+
+.cus {
+  background-color:gray;
+  height: 50px;
+  margin-bottom:10px;
+  text-align: center;
+}
+
+
+.cus1 {
+  background-color:gray;
+  height: 50px;
+  text-align: center;
+
+}
+.cus2 {
+  background-color:gray;
+  height:600px;
+  margin: 10px;
+  text-align: center;
+
+}
+.cus3 {
+  background-color:gray;
+  height:50px;
+  text-align: center;
+  
+}
+section h1 {background-color: antiquewhite;
+ 
+  padding: 40px;
+border:1px solid black;
+
+}
+section p {background-color: antiquewhite;
+ 
+  padding: 40px;
+  border: 1px solid black;
+
+
+}
